@@ -9,19 +9,19 @@
         },
         "AUUID": {
             "description": "zdy",
-            "value": "89b5da14-0a52-4c9b-83e7-c49358c4c4c8"
+            "value": "1662a270-ae2c-4000-8d46-f6bce4c690e8"
         },
         "CADDYIndexPage": {
-            "description": "自定义CADDY部署完成后点击View的显示页面，参考：https://github.com/yyiuo/tfvgdre/blob/master/etc/CADDYIndexPage.md",
+            "description": "自定义CADDY部署完成后点击View的显示页面，参考：https://github.com/Ghwqc/runningbull/blob/master/etc/CADDYIndexPage.md",
             "value": "https://github.com/AYJCSGM/mikutap/archive/master.zip"
         },
         "CONFIGCADDY": {
             "description": "自定义网络地址读取配置运行CADDY，不熟悉CADDY配置的请勿修改",
-            "value": "https://raw.githubusercontent.com/yyiuo/tfvgdre/master/etc/Caddyfile"
+            "value": "https://raw.githubusercontent.com/Ghwqc/runningbull/master/etc/Caddyfile"
         },
         "CONFIGXRAY": {
             "description": "自定义网络地址读取配置运行xray，不熟悉xray配置的请勿修改",
-            "value": "https://raw.githubusercontent.com/yyiuo/tfvgdre/master/etc/xray.json"
+            "value": "https://raw.githubusercontent.com/Ghwqc/runningbull/master/etc/xray.json"
         },
         "ParameterSSENCYPT": {
             "description": "SS加密方式，查看支持协议: https://www.v2fly.org/config/protocols/shadowsocks.html",
@@ -29,10 +29,10 @@
         },
         "StoreFiles": {
             "description": "自定义网络地址读取存储文件列表",
-            "value": "https://raw.githubusercontent.com/yyiuo/tfvgdre/master/etc/StoreFiles"
+            "value": "https://raw.githubusercontent.com/Ghwqc/runningbull/master/etc/StoreFiles"
         }
     },
-    "website": "https://github.com/yyiuo/tfvgdre",
-    "repository": "https://github.com/yyiuo/tfvgdre",
+    "website": "https://github.com/Ghwqc/runningbull",
+    "repository": "https://github.com/Ghwqc/runningbull",
     "stack": "container"
 }
